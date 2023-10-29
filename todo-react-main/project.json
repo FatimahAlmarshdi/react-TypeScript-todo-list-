@@ -1,2 +1,2 @@
-{"projectId":"prj_PHA9KSpTCnobPUUJtVwx1K4KE6qd","orgId":"team_nDkC8exhforVVpthunQkQwMH", "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
+{"rewrites": [{ "source": "/(.*)", "destination": "/" }] }
 
